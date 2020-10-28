@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 I Love to develop Android apps and working with Realm database.
 
 Have a look at my Portfolio <br/>
-[bit.ly/jaikeerthick](bit.ly/jaikeerthick)
+[bit.ly/jaikeerthick](https://bit.ly/jaikeerthick)
