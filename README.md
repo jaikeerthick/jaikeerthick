@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 👨‍💻 I'm currently working on different projects (self) with Android, Firebase, Realm, etc.<br/>
 😁 I hereby present my works and some useful codes!
 
-![Android logo](https://drive.google.com/file/d/1TjUvsO8v5JwbZWSzDyoMAJ-6rJpxmgh7/view?usp=drivesdk)
+![Android logo](https://www.logo.wine/a/logo/Android_(operating_system)/Android_(operating_system)-Logo.wine.svg)
 
 ##### Happy Coding !
 
