@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 📲 I Love to develop Android apps.<br/>
-👨‍💻 I'm currently working on different projects (self) with Android, Firebase, Realm, etc.
-😁 
+👨‍💻 I'm currently working on different projects (self) with Android, Firebase, Realm, etc.<br/>
+😁 I hereby present my works and some useful codes!
+
+![Android logo](https://drive.google.com/file/d/1TjUvsO8v5JwbZWSzDyoMAJ-6rJpxmgh7/view?usp=drivesdk)
+
+##### Happy Coding !
 
 
 Have a look at my Portfolio <br/>
-👉[Jai's Portfolio🖼️](https://bit.ly/jaikeerthick)
+👉[Jai's Portfolio🖼️](https://jaikeerthick-portfolio.blogspot.com/?m=1)
