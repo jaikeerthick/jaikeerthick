@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 📲 I Love to develop Android apps.<br/>
 👨‍💻 I'm currently working on different projects (self) with Android, Firebase, Realm, etc.<br/>
 😁 I hereby present my works and some useful codes!<br/>
-<p align="left">
-<img src="https://www.logo.wine/a/logo/Android_(operating_system)/Android_(operating_system)-Logo.wine.svg" alt="android" width="150px" height="auto">
-</p>
+
 
 #### Happy Coding !
 
