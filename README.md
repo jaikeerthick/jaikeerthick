@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 📲 I Love to develop Android apps.<br/>
 👨‍💻 I'm currently working on different projects (self) with Android, Firebase, Realm, etc.<br/>
-😁 I hereby present my works and some useful codes!
+😁 I hereby present my works and some useful codes!<br/>
 <img align="left" src="https://www.logo.wine/a/logo/Android_(operating_system)/Android_(operating_system)-Logo.wine.svg" alt="android" width="200px" height="auto"><br/>
-##### Happy Coding !
 
+
+##### Happy Coding !
 
 Have a look at my Portfolio <br/>
 👉[Jai's Portfolio🖼️](https://jaikeerthick-portfolio.blogspot.com/?m=1)
