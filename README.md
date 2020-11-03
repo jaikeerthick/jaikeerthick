@@ -5,7 +5,7 @@
 👨‍💻 I'm currently working on different projects (self) with Android, Firebase, Realm, etc.<br/>
 😁 I hereby present my works and some useful codes!<br/>
 
-<img src="https://lh3.googleusercontent.com/proxy/3ftQd57Z2xrNzLpaYcG3Bcbr65g6GlSQZpolWHrilRJYhJLfV3g2jKDoBZfnj6LF8vaccr3iTrEaUQixQcDp-L32HKvZMQ">
+<img src="https://samerawada.com/assets/developer-home-9ebd4b99bed05209505fa7258c4cec5ac1e0b183a2f874145fd484c0186d0c9f.gif">
 
 #### Happy Coding !
 
