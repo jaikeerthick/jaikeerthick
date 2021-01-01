@@ -2,7 +2,7 @@
 
 
 * 📲 I Love to develop Android apps.<br/>
-* 👶🏻 Ofcourse, I'm a beginner..<br>
+* 👶🏻 Learning stuffs continuously..<br>
 * 👨‍💻 I'm currently working on different projects (self) with Android, Firebase, Realm, etc.<br/>
 * 😁 I hereby present my works and some useful codes!<br/>
 
