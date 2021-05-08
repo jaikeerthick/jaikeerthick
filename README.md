@@ -1,5 +1,21 @@
 ### Hello World!
-
+<p><a href="https://www.linkedin.com/in/jaikeerthick/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+   <a href="https://www.instagram.com/jaikeerthick/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://github.com/jaikeerthick">
+    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
+  </a>
+ 
+  <a href="mailto:jaikeerthick@gmail.com">
+    <img src ="https://img.shields.io/badge/-jaikeerthick@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">  
+  </a>
+  <br>
+  
+<img src="https://komarev.com/ghpvc/?username=jaikeerthick&color=brightgreen">
+</p>
 
 * 📲 I Love to develop Android apps.<br/>
 * 👶🏻 Learning stuffs continuously..<br>
@@ -12,3 +28,5 @@
 
 Have a look at my Portfolio <br/>
 👉[Jai's Portfolio🖼️](https://jaikeerthick-portfolio.blogspot.com/?m=1)
+<br><br>
+[![Jai Keerthick GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaikeerthick&show_icons=true&count_private=true)](https://github.com/jaikeerthick)
