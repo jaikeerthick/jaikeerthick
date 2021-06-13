@@ -1,16 +1,16 @@
 # Hello World!
 <p>
     <a href="https://www.linkedin.com/in/jaikeerthick/">
-  <img align="left" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/1051/1051282.svg?token=exp=1620576576~hmac=2a62ec2d42c815fa99bd20846820076b" />
+  <img align="left" width="25px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />
 </a>
 <a href="https://www.instagram.com/jaikeerthick/">
-  <img align="left" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/1051/1051262.svg?token=exp=1620576576~hmac=73d9dad8041c5c3de6d05e14988fd44a" />
+  <img align="left" width="25px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
 </a>
 <a href="https://github.com/jaikeerthick">
-  <img align="left"  width="25px" src="https://www.flaticon.com/svg/vstatic/svg/1051/1051275.svg?token=exp=1620577249~hmac=b83e0f4c44abde18fae7486f21364fa1" />
+  <img align="left"  width="25px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" />
 </a>
 <a href="mailto:jaikeerthick@gmail.com">
-  <img align="left" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/300/300228.svg?token=exp=1620577293~hmac=17ae2495731be91a46ac0c35002b7f70" />
+  <img align="left" width="25px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
     </a>
   <br><br>
   
