@@ -21,7 +21,7 @@
 
 * 📲 I Love to develop Android apps.<br/>
 * 👶🏻 Learning stuffs continuously..<br>
-* 👨‍💻 I'm currently working on something cool<br/>
+* 👨‍💻 Currently working on something cool<br/>
 * 😁 I hereby present my works and some useful codes!<br/>
 
 #### Happy Coding !
