@@ -27,5 +27,5 @@
 #### Happy Coding !
 
 Have a look at my Portfolio <br/>
-👉[Jai's Portfolio🖼️](https://jaikeerthick-portfolio.blogspot.com/?m=1)
+👉[Jai's Portfolio🖼️](https://linktr.ee/jaikeerthick.portfolio)
 
