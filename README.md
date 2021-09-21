@@ -24,8 +24,8 @@
 * 👨‍💻 Currently working on something big and cool<br/>
 * 😁 I hereby present my works and some useful codes!<br/>
 
-#### Happy Coding !
+#### Craftsman behind
 
-Have a look at my Portfolio <br/>
-👉[Jai's Portfolio🖼️](https://linktr.ee/jaikeerthick.portfolio)
+- [Moving](https://play.google.com/store/apps/details?id=com.moving.future&hl=en_GB&gl=IN)
+- [STFO - Notification Manager](https://play.google.com/store/apps/details?id=com.spacenos.labs.qsmart.privacy.notificationmanager&hl=en&gl=US)
 
