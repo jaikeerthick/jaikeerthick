@@ -26,6 +26,7 @@
 
 #### Craftsman behind
 
-- [Moving](https://play.google.com/store/apps/details?id=com.moving.future&hl=en_GB&gl=IN)
+- [Moving - Home for Crypto Investors](https://play.google.com/store/apps/details?id=com.moving.future&hl=en_GB&gl=IN)
 - [STFO - Notification Manager](https://play.google.com/store/apps/details?id=com.spacenos.labs.qsmart.privacy.notificationmanager&hl=en&gl=US)
+- [Dibbs - Twist on bids ](https://dibbstechnology.com)
 
