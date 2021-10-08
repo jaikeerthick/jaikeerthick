@@ -22,7 +22,7 @@
 * 📲 I Love to develop Android apps, with attractive UI and high performance.<br/>
 * 👶🏻 Learning stuffs continuously..<br>
 * 👨‍💻 Currently working on something big and cool<br/>
-*  I hereby present my works and some useful codes!<br/>
+* 🍜 I hereby present my works and some useful codes!<br/>
 
 #### Craftsman behind
 
