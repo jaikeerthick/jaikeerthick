@@ -1,4 +1,4 @@
-# Log.d(TAG, "Hello World! 👋");
+# Log.d(TAG, "Hello World! 👋")
 <p>
     <a href="https://www.linkedin.com/in/jaikeerthick/">
   <img align="left" width="25px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />
