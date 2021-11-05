@@ -17,7 +17,7 @@
 <img src="https://komarev.com/ghpvc/?username=jaikeerthick&color=brightgreen">
 </p>
 
-### Working remotely🏡 [@Moving](https://github.com/ElevatorHQ)
+### Lead Android Dev [@Moving](https://github.com/ElevatorHQ)
 
 * 📲 I Love to develop Android apps, with attractive UI and high performance.<br/>
 * 👶🏻 Learning stuffs continuously..<br>
