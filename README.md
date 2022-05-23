@@ -17,8 +17,6 @@
 <img src="https://komarev.com/ghpvc/?username=jaikeerthick&color=brightgreen">
 </p>
 
-### Android Dev [@Plug](https://github.com/Plug-town)
-
 * 📲 I Love to develop Android apps, with attractive UI and high performance.<br/>
 * 👶🏻 Learning stuffs continuously..<br>
 * 👨‍💻 Currently working on something big and cool<br/>
