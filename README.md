@@ -18,8 +18,8 @@
 </p>
 
 * 📲 I Love to develop Android apps, with attractive UI and high performance.<br/>
-* 🛠 Kotlin, Java, Jetpack Compose.
-* 👶🏻 Learning stuffs continuously..<br>
-* 🍜 I hereby present my works and some useful codes!<br/>
+* 🛠 Kotlin + Jetpack Compose.
+* 🔭 Exploring: Ktor, Kobweb.<br>
+<br/>
 
 
